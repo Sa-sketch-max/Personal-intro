@@ -1,2 +1,2 @@
 # Personal-intro
-Personal intro page, Task 1.
+Personal intro page, Task 1 DoVoo internship.
